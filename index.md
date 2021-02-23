@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## LYDIA SWEETS AKA LYDIA TREATS
 
 You can use the [editor on GitHub](https://github.com/lydiatreats/fun-background/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
